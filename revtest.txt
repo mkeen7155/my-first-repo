@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 This is my line.
-=======
-This is my line.
->>>>>>> 6161f87574e96dea2a52dc9442fab0bc7aa4f99b
+
