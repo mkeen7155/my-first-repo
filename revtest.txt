@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is my line.
+=======
+This is my Line.
+>>>>>>> 6dac46d106068652e9c112748044284702e2fbfb
